@@ -1,11 +1,11 @@
 # Chinook Database Analysis
 ## Table of Contents 📖
-1. [Summary 📊](#Summary)
-2. [Overview 🔍](#Overview)
-3. [Objectives 🎯](#Objectives)
-4. [Tasks ✅](#Tasks)
-5. [What I Learned 📚](#What-I-Learned)
-6. [Conclusions  🏁](#Conclusions)
+1. [Summary 📊](#-summary)
+2. [Overview 🔍](#-overview)
+3. [Objectives 🎯](#-objectives)
+4. [Tasks ✅](#-tasks)
+5. [What I Learned 📚](#-what-i-learned)
+6. [Conclusions  🏁](#-conclusions)
 
 ## Summary 📊
 This analysis explores customer spending behavior, sales trends, and purchasing patterns using SQL queries on the Chinook database. The findings highlight key insights into revenue-driving factors, customer retention, and product performance.
