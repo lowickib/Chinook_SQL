@@ -1,19 +1,19 @@
 # Chinook Database Analysis
 ## Table of Contents 📖
-1. [Summary 📊](#-summary)
-2. [Overview 🔍](#-overview)
-3. [Objectives 🎯](#-objectives)
-4. [Tasks ✅](#-tasks)
-5. [What I Learned 📚](#-what-i-learned)
-6. [Conclusions  🏁](#-conclusions)
+1. [📊 Summary](#-summary)
+2. [🔍 Overview](#-overview)
+3. [🎯 Objectives](#-objectives)
+4. [✅ Tasks](#-tasks)
+5. [📚 What I Learned](#-what-i-learned)
+6. [🏁 Conclusions](#-conclusions)
 
-## Summary 📊
+## 📊 Summary
 This analysis explores customer spending behavior, sales trends, and purchasing patterns using SQL queries on the Chinook database. The findings highlight key insights into revenue-driving factors, customer retention, and product performance.
 
-## Overview 🔍
+## 🔍 Overview
 The Chinook database provides a comprehensive dataset of customer transactions, products, and sales records. Using SQL queries, this project investigates various business metrics, including top customers, sales seasonality, and the impact of product attributes on revenue. Visualizations and statistical summaries further support the findings.
 
-## Objectives 🎯
+## 🎯 Objectives
 
 1. Identify high-value customers and their spending habits.
 2. Analyze sales trends and seasonality.
@@ -23,7 +23,7 @@ The Chinook database provides a comprehensive dataset of customer transactions, 
 
 ---
 
-## Tasks ✅
+## ✅ Tasks
 
 ### 1. Monthly Spending Rankings
 **Task:** Identify the top-spending customers each month using rankings.\
@@ -808,34 +808,34 @@ GROUP BY customer_id, first_name, last_name;
 
 ---
 
-## What I Learned 📚
-### 1. Advanced SQL Queries 🛠️
+## 📚 What I Learned
+### 1. 🛠️ Advanced SQL Queries 
 
 - Learned how to use Common Table Expressions (CTEs) and window functions such as `DENSE_RANK()` and `LAG()` to analyze customer spending trends and purchasing behaviors.
 - Applied ranking functions to identify top customers based on spending trends and monthly sales.
 
-### 2. Customer Segmentation & Retention 📊
+### 2. 📊 Customer Segmentation & Retention 
 
 - Gained experience in identifying high-value customers, tracking their spending habits, and detecting potential churn based on purchasing gaps.
 - Used SQL queries to analyze the frequency of customer purchases and identify those at risk of churn.
 
-### 3. Sales Trend Analysis 📈
+### 3. 📈 Sales Trend Analysis 
 
 - Developed skills in analyzing monthly sales trends, recognizing seasonality in revenue, and assessing the impact of time-based factors on business performance.
 - Evaluated year-over-year sales changes to determine growth trends and highlight business performance improvements.
 
-### 4. Data Visualization & Reporting 🎨
+### 4. 🎨 Data Visualization & Reporting 
 
 - Used SQL-generated data to create visualizations that effectively communicate findings, including customer rankings, sales trends, and category performance.
 - Implemented various chart types (bar, line, and ranking graphs) to better illustrate purchasing patterns and revenue distributions.
 
-### 5. Business Insights & Decision Making 💡
+### 5. 💡 Business Insights & Decision Making 
 
 - Learned how to interpret data-driven insights to optimize marketing strategies, improve customer engagement, and enhance overall business operations.
 - Applied data analysis results to suggest operational improvements, such as refining product offerings based on high-performing categories.
 ---
 
-## Conclusions  🏁
+## 🏁 Conclusions  
 The analysis of the Chinook database has provided valuable insights into customer behavior, sales trends, and product performance. Key takeaways include:
 - Customer Segmentation & Retention: Identifying high-value customers and tracking their spending habits is crucial for improving customer retention strategies.
 - Sales Trends & Seasonality: Monthly and yearly sales fluctuations highlight the importance of understanding market trends and optimizing inventory management accordingly.
